@@ -1,1 +1,1 @@
-# BoardGameHaJa
+# boardGame-Haja
